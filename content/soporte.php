@@ -10,7 +10,7 @@ include_once('../lib/conectar.php');
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>TWISTER Traffic | Soporte</title>
+    <title>TWISTER Traffic | Soporte-GITHUB</title>
 
     <link rel="shortcut icon" href="../images/TWISTER-FAVICON.ico">
     <!--<link href="navegador.css" rel="stylesheet">-->
